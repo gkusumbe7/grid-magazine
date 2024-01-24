@@ -1,1 +1,1 @@
-# grid-magazine
+# grid-magazine project
